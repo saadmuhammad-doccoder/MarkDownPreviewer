@@ -1,4 +1,6 @@
-# MarkDown Previer
+# MarkDown Previewer
+
+An app that provides a preview of the markdown.
 
 Created with
 
